@@ -45,7 +45,9 @@ Exponenciação (exponenciacao): multiplica repetidamente a base.
 Fatorial (fatorial): calcula usando multiplicações sucessivas.
 
 🖥️ Exemplo de uso
+
 === CALCULADORA DE NUMEROS GRANDES ===
+
 1 - Soma
 2 - Subtracao
 3 - Multiplicacao
