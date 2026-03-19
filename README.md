@@ -49,12 +49,19 @@ Fatorial (fatorial): calcula usando multiplicações sucessivas.
 === CALCULADORA DE NUMEROS GRANDES ===
 
 1 - Soma
+
 2 - Subtracao
+
 3 - Multiplicacao
+
 4 - Exponenciacao
+
 5 - Fatorial
+
 0 - Sair
+
 Opcao: 1
+
 
 A: 999999999999999999
 B: 1
