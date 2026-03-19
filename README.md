@@ -44,11 +44,6 @@ Exponenciação (exponenciacao): multiplica repetidamente a base.
 
 Fatorial (fatorial): calcula usando multiplicações sucessivas.
 
-💻 Como compilar e executar
-Compilar:
-gcc calculadora.c -o calculadora
-Executar:
-./calculadora
 🖥️ Exemplo de uso
 === CALCULADORA DE NUMEROS GRANDES ===
 1 - Soma
