@@ -67,6 +67,7 @@ A: 999999999999999999
 B: 1
 
 Resultado: 1000000000000000000
+
 ⚠️ Observações
 
 Os números devem ser informados sem espaços e apenas com dígitos.
